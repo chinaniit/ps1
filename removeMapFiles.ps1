@@ -1,0 +1,1 @@
+Remove-Item D:\ -include *.js.map -Recurse
